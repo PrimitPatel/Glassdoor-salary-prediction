@@ -4,7 +4,6 @@
 ## Overview
 * Designed a tool that estimates job salaries to help data scientists negotiate their income when they are applying for different data science jobs
 * Scraped 950 job descriptions from Glassdoor.com using Selenium and python.
-* 
 * Applied various regression models-  Multiple Linear, Ridge, Lasso, Support Vector, Decision tree, and Random Forest Regressors using RandomizedSearchCV to reach the best model.
 * Built a client-facing API using flask.
 
